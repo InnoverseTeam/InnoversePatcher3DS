@@ -4,4 +4,4 @@
 		mov		r0, r8			// copy r8 back into r0 because r0 got nuked
 	
 .org main_discovery_string
-	.asciiz "https://discovery.olv.pretendo.cc/v1/endpoint"
+	.asciiz "https://discovery.3ds.innoverse.xyz/v1/endpoint"
