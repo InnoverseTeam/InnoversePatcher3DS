@@ -1,4 +1,2 @@
 # InnoverseMiiverse3DS
-Patcher of Miiverse Recreation called Innoverse for 3DS Console.
-
-# Not yet complete !!!
+Innoverse patcher for the 3DS console.
