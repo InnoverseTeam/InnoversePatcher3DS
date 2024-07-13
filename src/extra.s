@@ -76,7 +76,7 @@
 		.asciiz "frd:u"
 		
 	alt_discovery_string:
-		.asciiz "https://olv.innoverse.idk/v1/endpoint"
+		.asciiz "https://disc-inno.alwaysdata.net/v1/endpoint"
 		
 	alt_cave_pem_string:
 		.asciiz "3ds/innoverse.pem"
